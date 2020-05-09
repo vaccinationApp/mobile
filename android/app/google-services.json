@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "801500567887",
+    "firebase_url": "https://vaccinationapp-9c138.firebaseio.com",
+    "project_id": "vaccinationapp-9c138",
+    "storage_bucket": "vaccinationapp-9c138.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801500567887:android:4e6681ae7cf65f99c48d3a",
+        "android_client_info": {
+          "package_name": "com.company.vaccinationApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801500567887-tph07s1js4ibpnova65oqodgac7b6jai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_7D4Jv24hh9ov7-_A1UixL5RsPgpWUOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801500567887-tph07s1js4ibpnova65oqodgac7b6jai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
